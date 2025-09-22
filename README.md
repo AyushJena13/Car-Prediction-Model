@@ -1,2 +1,2 @@
-# Car-Prediction-Model
-A ML model that determines used car price based on the different features like fuel, mileage etc.
+# Car_Prediction_Model
+Machine Learning Model to implement Car price prediction
